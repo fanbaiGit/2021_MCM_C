@@ -1,0 +1,616 @@
+----------ATT647_F4F331AE-CAA2-438D-915D-AAC15DDBC8C2.jpg----------
+asian giant hornets (score = 0.9833491)
+cimbex (score = 0.009275081)
+yellowjacket (score = 0.004152072)
+pacific cicada (score = 0.0027535092)
+bumble (score = 0.00047026598)
+
+----------ATT1081_20200721_095607.jpg----------
+pacific cicada (score = 0.63526523)
+asian giant hornets (score = 0.13755304)
+cimbex (score = 0.13471632)
+bumble (score = 0.06866074)
+yellowjacket (score = 0.02380467)
+
+----------ATT3300_Screenshot_20201023-035401_Blink.jpg----------
+yellowjacket (score = 0.9513436)
+bumble (score = 0.025738968)
+cimbex (score = 0.011275666)
+pacific cicada (score = 0.0078100045)
+asian giant hornets (score = 0.0038317724)
+
+----------ATT1430_39403033-2C09-4E1D-88AC-073CA13C4B25.jpg----------
+yellowjacket (score = 0.5151382)
+bumble (score = 0.28448737)
+cimbex (score = 0.18461804)
+pacific cicada (score = 0.009845072)
+asian giant hornets (score = 0.0059113093)
+
+----------ATT1074_0BE15C65-4EE5-4321-8936-33F0C1E239BB.jpg----------
+asian giant hornets (score = 0.4288376)
+pacific cicada (score = 0.39866784)
+yellowjacket (score = 0.11014625)
+cimbex (score = 0.047805972)
+bumble (score = 0.014542288)
+
+----------ATT466_IMG_5501.jpg----------
+yellowjacket (score = 0.8738715)
+bumble (score = 0.07652017)
+asian giant hornets (score = 0.03540825)
+cimbex (score = 0.010265317)
+pacific cicada (score = 0.003934721)
+
+----------ATT148_IMG_20200512_104724.jpg----------
+yellowjacket (score = 0.934917)
+bumble (score = 0.06286996)
+asian giant hornets (score = 0.0013369032)
+pacific cicada (score = 0.00072093325)
+cimbex (score = 0.0001552781)
+
+----------ATT552_trim.FA8319EE-C1C3-4AD8-83F8-0B964E111F16.jpg----------
+bumble (score = 0.96923804)
+asian giant hornets (score = 0.02431124)
+yellowjacket (score = 0.0036301303)
+cimbex (score = 0.00238492)
+pacific cicada (score = 0.00043569208)
+
+----------ATT1441_8714BF14-2C4E-4CA2-AE81-05F6B488DD25.jpg----------
+yellowjacket (score = 0.49431154)
+asian giant hornets (score = 0.4477207)
+bumble (score = 0.039091997)
+pacific cicada (score = 0.018026046)
+cimbex (score = 0.00084966724)
+
+----------ATT3302_tmp-cam-4811883243317525499.jpg----------
+bumble (score = 0.48889592)
+asian giant hornets (score = 0.4658542)
+yellowjacket (score = 0.022930343)
+cimbex (score = 0.016998978)
+pacific cicada (score = 0.0053205867)
+
+----------ATT384_15913902491844695387922502157159.jpg----------
+pacific cicada (score = 0.5831269)
+yellowjacket (score = 0.3646992)
+bumble (score = 0.026330529)
+cimbex (score = 0.017572712)
+asian giant hornets (score = 0.008270739)
+
+----------ATT1678_hornet.jpg----------
+asian giant hornets (score = 0.9581053)
+pacific cicada (score = 0.023180671)
+yellowjacket (score = 0.0106231095)
+cimbex (score = 0.007887885)
+bumble (score = 0.00020298955)
+
+----------ATT680_th.jpg  Asian Giant Hornet.jpg----------
+asian giant hornets (score = 0.9991671)
+yellowjacket (score = 0.0005567124)
+cimbex (score = 0.00014034561)
+bumble (score = 7.7940414e-05)
+pacific cicada (score = 5.7931564e-05)
+
+----------ATT455_A6AE7724-DD71-4AF1-A7C7-A3EBCE08F4FA.jpg----------
+asian giant hornets (score = 0.74336857)
+yellowjacket (score = 0.1572261)
+pacific cicada (score = 0.06308494)
+bumble (score = 0.020741196)
+cimbex (score = 0.015579191)
+
+----------ATT3120_1F168128-EC8B-4351-BBC6-D5702D2B8A53.jpg----------
+yellowjacket (score = 0.9502294)
+pacific cicada (score = 0.032152183)
+cimbex (score = 0.010318484)
+bumble (score = 0.0067007756)
+asian giant hornets (score = 0.0005992658)
+
+----------ATT3032_65F75BBA-6FB2-4A95-9C9B-EE38A9A09D6B.jpg----------
+bumble (score = 0.8490753)
+cimbex (score = 0.13139135)
+asian giant hornets (score = 0.01052126)
+yellowjacket (score = 0.007843243)
+pacific cicada (score = 0.0011687652)
+
+----------ATT2923_D0E7D0A3-0AD7-421F-929F-657FAEEF59EA.jpg----------
+yellowjacket (score = 0.9871967)
+cimbex (score = 0.0057579153)
+asian giant hornets (score = 0.0031121934)
+bumble (score = 0.0022616826)
+pacific cicada (score = 0.0016715638)
+
+----------ATT2146_2020-08-19 14.18.34.jpg----------
+yellowjacket (score = 0.96152604)
+asian giant hornets (score = 0.025599582)
+pacific cicada (score = 0.0075181862)
+bumble (score = 0.0026994464)
+cimbex (score = 0.0026566742)
+
+----------ATT3223_Resized_Screenshot_20201009-134338_Video_Player.jpg----------
+yellowjacket (score = 0.61038464)
+asian giant hornets (score = 0.29847917)
+bumble (score = 0.08492623)
+pacific cicada (score = 0.004823102)
+cimbex (score = 0.0013868196)
+
+----------ATT2925_5F26250B-EC8D-467A-9120-0C5EAEC5C665.jpg----------
+yellowjacket (score = 0.8766782)
+bumble (score = 0.114696234)
+asian giant hornets (score = 0.0044363635)
+cimbex (score = 0.0032009333)
+pacific cicada (score = 0.000988193)
+
+----------ATT1866_IMG_20200811_203231_01.jpg----------
+bumble (score = 0.7411367)
+yellowjacket (score = 0.23864274)
+pacific cicada (score = 0.017309058)
+cimbex (score = 0.0026722606)
+asian giant hornets (score = 0.0002392788)
+
+----------ATT3299_Screenshot_20201023-035247_Blink.jpg----------
+yellowjacket (score = 0.8116976)
+bumble (score = 0.12045381)
+pacific cicada (score = 0.03617898)
+cimbex (score = 0.01738131)
+asian giant hornets (score = 0.014288241)
+
+----------ATT3296_Screenshot_20201023-035213_Blink.jpg----------
+yellowjacket (score = 0.7966014)
+cimbex (score = 0.08741203)
+asian giant hornets (score = 0.051459547)
+bumble (score = 0.04033265)
+pacific cicada (score = 0.024194298)
+
+----------ATT2476_IMG_2208.jpg----------
+pacific cicada (score = 0.68418604)
+yellowjacket (score = 0.14541666)
+bumble (score = 0.08828974)
+asian giant hornets (score = 0.05569595)
+cimbex (score = 0.026411578)
+
+----------ATT575_20200623_175356.jpg----------
+asian giant hornets (score = 0.7891697)
+yellowjacket (score = 0.18925935)
+bumble (score = 0.016351633)
+cimbex (score = 0.0031999876)
+pacific cicada (score = 0.0020192976)
+
+----------ATT175_image.jpg----------
+yellowjacket (score = 0.75344366)
+pacific cicada (score = 0.17603445)
+asian giant hornets (score = 0.031295028)
+bumble (score = 0.02679571)
+cimbex (score = 0.012431221)
+
+----------ATT3170_Screenshot_20201003-170736_Chrome.jpg----------
+asian giant hornets (score = 0.7828949)
+cimbex (score = 0.09604584)
+pacific cicada (score = 0.057864968)
+yellowjacket (score = 0.044927366)
+bumble (score = 0.018266847)
+
+----------ATT2253_8184D704-622B-41F6-A201-A511C069FEBA.jpg----------
+pacific cicada (score = 0.5281724)
+asian giant hornets (score = 0.32868135)
+yellowjacket (score = 0.058481347)
+cimbex (score = 0.05675154)
+bumble (score = 0.027913483)
+
+----------ATT20_download.jpg----------
+asian giant hornets (score = 0.98964864)
+yellowjacket (score = 0.005028187)
+pacific cicada (score = 0.0030322678)
+cimbex (score = 0.0016388728)
+bumble (score = 0.0006519756)
+
+----------ATT1766_IMG_0971.jpg----------
+bumble (score = 0.63339895)
+yellowjacket (score = 0.27678764)
+asian giant hornets (score = 0.06683992)
+pacific cicada (score = 0.0172987)
+cimbex (score = 0.0056747845)
+
+----------ATT1449_koa.jpg----------
+asian giant hornets (score = 0.9078877)
+cimbex (score = 0.05072816)
+bumble (score = 0.020531317)
+yellowjacket (score = 0.018922549)
+pacific cicada (score = 0.0019303047)
+
+----------ATT2525_9CC5FFFB-74DA-4945-9D35-66252AC5A2B7.jpg----------
+bumble (score = 0.8609852)
+yellowjacket (score = 0.12601075)
+cimbex (score = 0.0112711955)
+asian giant hornets (score = 0.0014167378)
+pacific cicada (score = 0.00031611635)
+
+----------ATT1080_20200721070740855.jpg----------
+pacific cicada (score = 0.86406094)
+yellowjacket (score = 0.0774853)
+cimbex (score = 0.04773969)
+asian giant hornets (score = 0.008701413)
+bumble (score = 0.002012625)
+
+----------ATT8_inbound3294707176401090708.jpg----------
+asian giant hornets (score = 0.94997597)
+pacific cicada (score = 0.03209003)
+yellowjacket (score = 0.011042031)
+bumble (score = 0.004619528)
+cimbex (score = 0.0022724022)
+
+----------ATT269_15907099060237302966974548855457.jpg----------
+yellowjacket (score = 0.7398485)
+cimbex (score = 0.21217318)
+pacific cicada (score = 0.021731615)
+asian giant hornets (score = 0.01895743)
+bumble (score = 0.0072892057)
+
+----------ATT1861_20200811_102403.jpg----------
+bumble (score = 0.5539594)
+yellowjacket (score = 0.3377762)
+asian giant hornets (score = 0.0774351)
+pacific cicada (score = 0.025822198)
+cimbex (score = 0.0050069713)
+
+----------ATT174_trim.B1F11C96-C2F8-4401-AC39-E41EC93ED758.jpg----------
+yellowjacket (score = 0.92079115)
+bumble (score = 0.07444363)
+cimbex (score = 0.003188667)
+pacific cicada (score = 0.0008238413)
+asian giant hornets (score = 0.00075276836)
+
+----------ATT3040_08F98DA2-4C59-4A11-A9B9-223B2CF90A88.jpg----------
+pacific cicada (score = 0.6594072)
+asian giant hornets (score = 0.31573996)
+yellowjacket (score = 0.015815819)
+bumble (score = 0.007274896)
+cimbex (score = 0.0017621735)
+
+----------ATT1716_7FE21875-3B17-4EE6-9961-D95A26B91112.jpg----------
+pacific cicada (score = 0.86993676)
+yellowjacket (score = 0.09414381)
+bumble (score = 0.013763879)
+cimbex (score = 0.011672645)
+asian giant hornets (score = 0.010482918)
+
+----------ATT80_IMG_20200425_171127629.jpg----------
+yellowjacket (score = 0.8871791)
+pacific cicada (score = 0.053735875)
+cimbex (score = 0.038703796)
+asian giant hornets (score = 0.01816755)
+bumble (score = 0.002213702)
+
+----------ATT2910_giant asian hornet.jpg----------
+bumble (score = 0.38999507)
+asian giant hornets (score = 0.3054202)
+cimbex (score = 0.17140199)
+pacific cicada (score = 0.11167926)
+yellowjacket (score = 0.021503441)
+
+----------ATT3184_16019286423632233187167406135801.jpg----------
+yellowjacket (score = 0.8086613)
+pacific cicada (score = 0.17008132)
+bumble (score = 0.018879222)
+cimbex (score = 0.0018806984)
+asian giant hornets (score = 0.00049756)
+
+----------ATT74_image0 (27).jpg----------
+bumble (score = 0.36839455)
+asian giant hornets (score = 0.31077775)
+yellowjacket (score = 0.2745579)
+pacific cicada (score = 0.04040761)
+cimbex (score = 0.005862149)
+
+----------ATT3297_Screenshot_20201023-035325_Blink.jpg----------
+yellowjacket (score = 0.8550776)
+bumble (score = 0.067135125)
+asian giant hornets (score = 0.040930983)
+pacific cicada (score = 0.022453992)
+cimbex (score = 0.014402358)
+
+----------ATT3304_3F3414C0-1943-4ABC-BA74-241D6C0EAA35.jpg----------
+cimbex (score = 0.73148286)
+yellowjacket (score = 0.10534337)
+pacific cicada (score = 0.09083652)
+asian giant hornets (score = 0.071321934)
+bumble (score = 0.0010153643)
+
+----------ATT3216_image.jpg----------
+pacific cicada (score = 0.60522634)
+yellowjacket (score = 0.3594664)
+cimbex (score = 0.018593686)
+bumble (score = 0.014547522)
+asian giant hornets (score = 0.0021660586)
+
+----------ATT3183_16019286130635163820851555146929.jpg----------
+yellowjacket (score = 0.5767594)
+cimbex (score = 0.3242005)
+asian giant hornets (score = 0.05816154)
+pacific cicada (score = 0.023219608)
+bumble (score = 0.01765887)
+
+----------ATT2992_Hornet Keeler.jpg----------
+yellowjacket (score = 0.5167843)
+pacific cicada (score = 0.31896767)
+bumble (score = 0.1298403)
+asian giant hornets (score = 0.017659266)
+cimbex (score = 0.016748501)
+
+----------ATT271_15907099343974731359796923479670.jpg----------
+yellowjacket (score = 0.5755422)
+asian giant hornets (score = 0.39551392)
+cimbex (score = 0.015413188)
+bumble (score = 0.0070093325)
+pacific cicada (score = 0.0065213866)
+
+----------ATT26_279FB3AA-9441-4FED-BFC2-97F82E21D8DC.jpg----------
+cimbex (score = 0.9177624)
+yellowjacket (score = 0.066667944)
+pacific cicada (score = 0.010910246)
+asian giant hornets (score = 0.0024648763)
+bumble (score = 0.0021945445)
+
+----------ATT3298_Screenshot_20201023-035341_Blink.jpg----------
+yellowjacket (score = 0.9688051)
+bumble (score = 0.015804715)
+cimbex (score = 0.0075580566)
+pacific cicada (score = 0.004347487)
+asian giant hornets (score = 0.0034846694)
+
+----------ATT3303_5F5E645F-0249-4CF9-84E2-9E7BCD1CE348.jpg----------
+yellowjacket (score = 0.67879725)
+pacific cicada (score = 0.25374758)
+cimbex (score = 0.04559036)
+asian giant hornets (score = 0.020714972)
+bumble (score = 0.0011498461)
+
+----------ATT2840_33CF0162-1A4F-45C7-969C-E9C9E551C9D1.jpg----------
+asian giant hornets (score = 0.7821943)
+yellowjacket (score = 0.099187195)
+cimbex (score = 0.05169603)
+bumble (score = 0.04118102)
+pacific cicada (score = 0.02574138)
+
+----------ATT2826_Asian Hornet_.jpg----------
+pacific cicada (score = 0.53178114)
+cimbex (score = 0.2736622)
+asian giant hornets (score = 0.13439667)
+bumble (score = 0.03272563)
+yellowjacket (score = 0.027434373)
+
+----------ATT574_20200623_175116.jpg----------
+yellowjacket (score = 0.8194088)
+asian giant hornets (score = 0.13820389)
+bumble (score = 0.024723643)
+cimbex (score = 0.012750294)
+pacific cicada (score = 0.004913422)
+
+----------ATT2924_530100FF-7E10-4618-8764-25593F93384A.jpg----------
+cimbex (score = 0.79766417)
+pacific cicada (score = 0.09097311)
+yellowjacket (score = 0.0790959)
+asian giant hornets (score = 0.030340713)
+bumble (score = 0.0019260921)
+
+----------ATT2076_20200817_170743.jpg----------
+bumble (score = 0.8814483)
+yellowjacket (score = 0.09907035)
+cimbex (score = 0.008077146)
+pacific cicada (score = 0.0076031983)
+asian giant hornets (score = 0.0038010082)
+
+----------ATT3_AttackCarnage1.jpg----------
+asian giant hornets (score = 0.5694683)
+yellowjacket (score = 0.34017992)
+bumble (score = 0.0842554)
+pacific cicada (score = 0.004729219)
+cimbex (score = 0.0013670902)
+
+----------ATT704_4E94B55F-8227-49F2-8C94-A38474E52ABE.jpg----------
+pacific cicada (score = 0.39169466)
+yellowjacket (score = 0.2479476)
+asian giant hornets (score = 0.24069859)
+bumble (score = 0.069947004)
+cimbex (score = 0.049712125)
+
+----------ATT1432_IMG_20200728_081220.jpg----------
+yellowjacket (score = 0.86759466)
+bumble (score = 0.10387527)
+pacific cicada (score = 0.024688885)
+asian giant hornets (score = 0.0030215043)
+cimbex (score = 0.00081977353)
+
+----------ATT2730_B3065385-8DE5-45AA-A0F3-43DB153C877B.jpg----------
+bumble (score = 0.889522)
+yellowjacket (score = 0.040556703)
+pacific cicada (score = 0.03869932)
+asian giant hornets (score = 0.022948558)
+cimbex (score = 0.008273267)
+
+----------ATT2922_7CCFE09D-A0B5-4EE6-8CEF-8EFB03F770B6.jpg----------
+yellowjacket (score = 0.9968694)
+bumble (score = 0.0030143913)
+pacific cicada (score = 5.030791e-05)
+asian giant hornets (score = 4.7702666e-05)
+cimbex (score = 1.8356586e-05)
+
+----------ATT3045_3DA4065B-75DA-4283-A788-6D4C92B7F20F.jpg----------
+yellowjacket (score = 0.5380181)
+bumble (score = 0.20658657)
+asian giant hornets (score = 0.123457566)
+pacific cicada (score = 0.08600974)
+cimbex (score = 0.045928076)
+
+----------ATT2142_image.jpg----------
+yellowjacket (score = 0.4765044)
+bumble (score = 0.3779117)
+pacific cicada (score = 0.081734926)
+cimbex (score = 0.034391865)
+asian giant hornets (score = 0.029457178)
+
+----------ATT3285_102E270D-D100-40A6-9BC2-62B335BB59CB.jpg----------
+yellowjacket (score = 0.7599896)
+pacific cicada (score = 0.12776281)
+bumble (score = 0.06405207)
+cimbex (score = 0.044922035)
+asian giant hornets (score = 0.0032734785)
+
+----------ATT3238_16025467386203123828833613845243.jpg----------
+yellowjacket (score = 0.52586627)
+pacific cicada (score = 0.4007389)
+asian giant hornets (score = 0.032415412)
+bumble (score = 0.030069616)
+cimbex (score = 0.0109098805)
+
+----------ATT2968_IMG_20200915_164206.jpg----------
+bumble (score = 0.8373776)
+yellowjacket (score = 0.14378977)
+pacific cicada (score = 0.012110477)
+asian giant hornets (score = 0.0054103998)
+cimbex (score = 0.0013116752)
+
+----------ATT576_20200623_175415.jpg----------
+yellowjacket (score = 0.54615104)
+asian giant hornets (score = 0.4260442)
+pacific cicada (score = 0.018910198)
+bumble (score = 0.008549946)
+cimbex (score = 0.00034466686)
+
+----------ATT3171_2CB7C9FF-8898-4D4D-A658-AB82286DC020.jpg----------
+cimbex (score = 0.8956912)
+bumble (score = 0.09752152)
+yellowjacket (score = 0.003458218)
+pacific cicada (score = 0.0023925928)
+asian giant hornets (score = 0.0009364548)
+
+----------ATT2729_B9882DFB-4A46-43BE-A10C-3086BB2DE761.jpg----------
+bumble (score = 0.53972965)
+yellowjacket (score = 0.19976705)
+pacific cicada (score = 0.1862303)
+cimbex (score = 0.06479335)
+asian giant hornets (score = 0.0094795665)
+
+----------ATT541_53C842B5-E14D-41E6-8FC2-E327D6FCD51D.jpg----------
+bumble (score = 0.5764618)
+asian giant hornets (score = 0.16526507)
+cimbex (score = 0.15661635)
+yellowjacket (score = 0.07952327)
+pacific cicada (score = 0.022133518)
+
+----------ATT3262_hornet.jpg----------
+pacific cicada (score = 0.8168144)
+yellowjacket (score = 0.15514217)
+cimbex (score = 0.016489945)
+asian giant hornets (score = 0.010868229)
+bumble (score = 0.00068521005)
+
+----------ATT553_trim.55AD15A2-983D-44DC-BA19-8955F2C74DBC.jpg----------
+asian giant hornets (score = 0.6833671)
+pacific cicada (score = 0.20923297)
+yellowjacket (score = 0.09614429)
+bumble (score = 0.007875862)
+cimbex (score = 0.003379826)
+
+----------ATT349_inbound45722360591262683.jpg----------
+asian giant hornets (score = 0.9819328)
+yellowjacket (score = 0.008368829)
+bumble (score = 0.008299689)
+pacific cicada (score = 0.0007997653)
+cimbex (score = 0.0005988743)
+
+----------ATT3295_42311DF4-A9FC-48E0-80A0-44FB7F9D1BD0.jpg----------
+bumble (score = 0.77470136)
+pacific cicada (score = 0.1842981)
+yellowjacket (score = 0.03865649)
+cimbex (score = 0.0020464035)
+asian giant hornets (score = 0.00029753038)
+
+----------ATT270_15907099250822430373737575028559.jpg----------
+yellowjacket (score = 0.8845848)
+asian giant hornets (score = 0.059972517)
+cimbex (score = 0.033129673)
+pacific cicada (score = 0.01931335)
+bumble (score = 0.0029995646)
+
+----------ATT1442_18C53FCB-DBEE-42D1-AE2B-A3633BD99EDE.jpg----------
+yellowjacket (score = 0.6222831)
+asian giant hornets (score = 0.35020712)
+bumble (score = 0.01571326)
+pacific cicada (score = 0.0114452755)
+cimbex (score = 0.0003512585)
+
+----------ATT3283_48B3803B-15DE-4048-8416-9E4175D85AE2.jpg----------
+bumble (score = 0.45726168)
+yellowjacket (score = 0.40761635)
+cimbex (score = 0.12031375)
+pacific cicada (score = 0.01419616)
+asian giant hornets (score = 0.0006120477)
+
+----------ATT2475_IMG_2209.jpg----------
+bumble (score = 0.3424773)
+pacific cicada (score = 0.3102248)
+yellowjacket (score = 0.15182571)
+asian giant hornets (score = 0.112603255)
+cimbex (score = 0.08286893)
+
+----------ATT3305_AE3995C6-528B-4F16-BDF3-A6F5DBFFA534.jpg----------
+yellowjacket (score = 0.8604925)
+pacific cicada (score = 0.09922135)
+bumble (score = 0.024327531)
+asian giant hornets (score = 0.012267901)
+cimbex (score = 0.0036906875)
+
+----------ATT3009_0B71F9E2-435D-47F2-BCFA-9AD9592A68AD.jpg----------
+bumble (score = 0.54574543)
+yellowjacket (score = 0.3516838)
+asian giant hornets (score = 0.065108456)
+pacific cicada (score = 0.024883384)
+cimbex (score = 0.012578992)
+
+----------ATT551_trim.27A74D5B-9FA5-4DD9-8433-B2132767F1CC.jpg----------
+bumble (score = 0.53821695)
+pacific cicada (score = 0.2344769)
+cimbex (score = 0.20024443)
+yellowjacket (score = 0.023881312)
+asian giant hornets (score = 0.0031805125)
+
+----------ATT1743_0807201529a.jpg----------
+yellowjacket (score = 0.88695)
+bumble (score = 0.10118596)
+pacific cicada (score = 0.00793137)
+cimbex (score = 0.003517972)
+asian giant hornets (score = 0.00041473904)
+
+----------ATT3284_58DCDA9F-791E-4E38-B737-60D31AE4E4AB.jpg----------
+asian giant hornets (score = 0.48673296)
+pacific cicada (score = 0.38538903)
+cimbex (score = 0.084383264)
+yellowjacket (score = 0.041847467)
+bumble (score = 0.0016473313)
+
+----------ATT550_trim.E3D66E16-0584-455E-AB4A-28634660BE89.jpg----------
+bumble (score = 0.94015163)
+asian giant hornets (score = 0.053852674)
+yellowjacket (score = 0.0036813351)
+pacific cicada (score = 0.0015405505)
+cimbex (score = 0.0007737338)
+
+----------ATT395_15914739865901219954138263398326.jpg----------
+bumble (score = 0.935646)
+yellowjacket (score = 0.030004798)
+asian giant hornets (score = 0.02295021)
+cimbex (score = 0.00594655)
+pacific cicada (score = 0.0054525076)
+
+----------ATT2728_C1807B99-13C8-47FE-A96D-A8DFBC313DC3.jpg----------
+bumble (score = 0.7176321)
+pacific cicada (score = 0.15088244)
+yellowjacket (score = 0.09258474)
+cimbex (score = 0.026046492)
+asian giant hornets (score = 0.012854151)
+
+----------ATT549_Asian Hornet.jpg----------
+yellowjacket (score = 0.40502515)
+asian giant hornets (score = 0.3324999)
+bumble (score = 0.16318992)
+pacific cicada (score = 0.07242821)
+cimbex (score = 0.026856806)
+

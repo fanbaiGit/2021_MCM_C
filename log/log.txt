@@ -1,0 +1,563 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 2083 entries, 0 to 2082
+Data columns (total 7 columns):
+ #   Column          Non-Null Count  Dtype
+---  ------          --------------  -----
+ 0   GlobalID        2083 non-null   object
+ 1   Detection Date  2083 non-null   object
+ 2   Lab Status      2083 non-null   object
+ 3   Latitude        2083 non-null   float64
+ 4   Longitude       2083 non-null   float64
+ 5   Notes           2083 non-null   object
+ 6   year            2083 non-null   object
+dtypes: float64(2), object(5)
+memory usage: 114.0+ KB
+None
+          Latitude    Longitude
+count  2083.000000  2083.000000
+mean     47.568520  -121.715377
+std       0.715061     1.489288
+min      45.488689  -124.558867
+25%      47.239383  -122.499314
+50%      47.608876  -122.296819
+75%      47.909042  -121.955443
+max      49.548004  -116.873687
+GlobalID                     {5AC8034E-5B46-4294-85F0-5B13117EBEFE}
+Detection Date                                            2019/12/8
+Lab Status                                              Positive ID
+Latitude                                                  48.980994
+Longitude                                               -122.688503
+Notes             One dead wasp seen in Blaine, and suspect flyi...
+year                                                           2019
+Name: 0, dtype: object
+GlobalID          {5EAD3364-2CA7-4A39-9A53-7F9DCF5D2041}
+Detection Date                                2019/10/30
+Lab Status                                   Positive ID
+Latitude                                       48.971949
+Longitude                                    -122.700941
+Notes                        Hornet specimen sent to WSU
+year                                                2019
+Name: 1, dtype: object
+GlobalID                     {124B9BFA-7F7B-4B8E-8A56-42E067F0F72E}
+Detection Date                                            2019/9/19
+Lab Status                                              Positive ID
+Latitude                                                  49.149394
+Longitude                                               -123.943134
+Notes             This was the colony that was found and destroy...
+year                                                           2019
+Name: 2, dtype: object
+GlobalID                     {C4F44511-EA53-4FCF-9422-E1C57703720D}
+Detection Date                                            2020/2/29
+Lab Status                                              Negative ID
+Latitude                                                  48.729596
+Longitude                                               -122.480035
+Notes             Iï¿½ï¿½m not sure what this is, but it was the...
+year                                                           2020
+Name: 3, dtype: object
+GlobalID                     {89C867F1-D5ED-48C8-9586-B705F5DA9838}
+Detection Date                                             2019/9/7
+Lab Status                                              Negative ID
+Latitude                                                  47.395721
+Longitude                                               -123.105188
+Notes             slow moving, i have this in the freezer still ...
+year                                                           2019
+Name: 4, dtype: object
+GlobalID                     {81670D96-4143-47B1-A9C8-83977892D53F}
+Detection Date                                            2020/3/19
+Lab Status                                              Negative ID
+Latitude                                                  47.840041
+Longitude                                               -122.323562
+Notes             It landed on my window while working. It walke...
+year                                                           2020
+Name: 5, dtype: object
+GlobalID                     {D30895B7-3994-45A3-BD51-E5BA881833FD}
+Detection Date                                            2019/8/30
+Lab Status                                              Negative ID
+Latitude                                                  47.635058
+Longitude                                               -122.057332
+Notes             Probably not an Asain Hornet but still a prett...
+year                                                           2019
+Name: 6, dtype: object
+GlobalID                     {1304CF55-4FF9-490F-AF5A-5719CD110A9D}
+Detection Date                                            2020/3/23
+Lab Status                                              Negative ID
+Latitude                                                   48.74361
+Longitude                                                -122.43905
+Notes             Was on the garden hose. It stung (maybe just a...
+year                                                           2020
+Name: 7, dtype: object
+GlobalID                     {5AD8CAF4-AB96-4BFA-8A08-6010C96937F1}
+Detection Date                                            2020/3/31
+Lab Status                                              Negative ID
+Latitude                                                  46.609918
+Longitude                                               -120.563107
+Notes             Not sure if this is the target pest, but I fig...
+year                                                           2020
+Name: 8, dtype: object
+GlobalID                     {8DFDA283-3AFD-4E9F-9878-7A0F22E1B917}
+Detection Date                                            2019/7/23
+Lab Status                                              Negative ID
+Latitude                                                  48.006763
+Longitude                                               -122.462053
+Notes             not sure if this is one. but in case it is. Sa...
+year                                                           2019
+Name: 9, dtype: object
+
+pretreatment:pos_neg
+count     2.083000e+03
+mean      4.689924e-02
+std       3.169996e-01
+min       0.000000e+00
+25%       0.000000e+00
+50%      1.215856e-175
+75%       1.485911e-91
+max       3.699631e+00
+Name: norm, dtype: float64
+
+df.head()
+   label           norm          norm2  with_photo     review
+0      1   8.893275e-02   7.909034e-03           1   8.117629
+1      1   2.240690e-01   5.020693e-02           1   4.650942
+2      1   3.306980e-69  1.093612e-137           1  27.616657
+3     -1   5.267075e-04   2.774208e-07           1  42.116049
+4     -1  8.524260e-313   0.000000e+00           1  19.000000
+
+group_by_year
+2018
+     Detection Date   Lab Status   Latitude   Longitude  year
+18        2018/7/20  Negative ID  46.729429 -120.556863  2018
+32        2018/7/20  Negative ID  47.319360 -119.555130  2018
+36        2018/6/19  Negative ID  47.234952 -120.006942  2018
+64        2018/5/26  Negative ID  48.152056 -117.260089  2018
+80        2018/7/15  Negative ID  46.621715 -117.798804  2018
+91         2018/6/4  Negative ID  47.716728 -122.075062  2018
+315       2018/4/22  Negative ID  48.835478 -122.462557  2018
+2034      2018/2/25  Negative ID  48.936993 -122.783658  2018
+2019
+    Detection Date   Lab Status   Latitude   Longitude  year
+0        2019/12/8  Positive ID  48.980994 -122.688503  2019
+1       2019/10/30  Positive ID  48.971949 -122.700941  2019
+2        2019/9/19  Positive ID  49.149394 -123.943134  2019
+4         2019/9/7  Negative ID  47.395721 -123.105188  2019
+6        2019/8/30  Negative ID  47.635058 -122.057332  2019
+9        2019/7/23  Negative ID  48.006763 -122.462053  2019
+12       2019/6/16  Negative ID  47.766765 -122.552735  2019
+14       2019/7/13  Negative ID  47.221882 -119.994430  2019
+15       2019/9/12  Negative ID  47.328000 -122.580040  2019
+16       2019/1/20  Negative ID  46.491849 -117.085127  2019
+19        2019/8/8  Negative ID  46.535196 -117.084754  2019
+39       2019/8/25  Negative ID  47.767236 -122.203342  2019
+59       2019/7/24  Negative ID  47.373462 -120.141581  2019
+62       2019/8/11  Negative ID  47.763623 -122.541143  2019
+63       2019/5/20  Negative ID  47.597870 -122.629580  2019
+65       2019/7/10  Negative ID  46.579221 -119.005588  2019
+66       2019/8/19  Negative ID  47.756278 -122.216833  2019
+69       2019/8/25  Negative ID  46.212198 -119.293372  2019
+70        2019/6/1  Negative ID  47.554623 -122.098662  2019
+74       2019/7/28  Negative ID  47.315424 -119.545603  2019
+81       2019/7/11  Negative ID  46.417813 -117.033198  2019
+83        2019/8/1  Negative ID  45.586842 -122.300349  2019
+87        2019/5/9  Negative ID  47.203856 -124.200461  2019
+99       2019/6/25  Negative ID  47.843290 -120.023180  2019
+203     2019/11/13  Positive ID  49.025831 -122.810653  2019
+263       2019/5/2  Negative ID  47.626955 -122.539736  2019
+284      2019/9/30  Positive ID  48.993892 -122.702242  2019
+340      2019/8/25  Negative ID  48.698967 -122.906356  2019
+2020
+     Detection Date   Lab Status   Latitude   Longitude  year
+3         2020/2/29  Negative ID  48.729596 -122.480035  2020
+5         2020/3/19  Negative ID  47.840041 -122.323562  2020
+7         2020/3/23  Negative ID  48.743610 -122.439050  2020
+8         2020/3/31  Negative ID  46.609918 -120.563107  2020
+10         2020/4/6  Negative ID  47.156028 -123.013366  2020
+             ...          ...        ...         ...   ...
+2078     2020/10/19  Negative ID  46.254336 -119.896162  2020
+2079     2020/10/21  Negative ID  46.709340 -120.460892  2020
+2080     2020/10/21  Negative ID  48.946326 -122.785606  2020
+2081     2020/10/20  Negative ID  48.041019 -122.132495  2020
+2082     2020/10/22  Negative ID  47.282895 -122.370925  2020
+
+Bayesian
+Bad Notes
+0.1222707423580786 long
+0.14847161572052403 seen
+0.13864628820960698 large
+0.11790393013100436 like
+0.08078602620087336 inches
+0.10152838427947598 picture
+0.11899563318777293 orange
+0.02292576419213974 Found
+0.08733624454148471 very
+0.034934497816593885 sure
+0.09388646288209607 around
+0.07969432314410481 Asian
+0.11790393013100436 flew
+0.0982532751091703 black
+0.06768558951965066 wasp
+0.09170305676855896 flying
+0.021834061135371178 found
+0.08733624454148471 photo
+0.08078602620087336 back
+0.08078602620087336 yellow
+0.05458515283842795 before
+0.04912663755458515 than
+0.07096069868995633 yard
+0.024017467248908297 dead
+0.06550218340611354 head
+0.06768558951965066 looked
+0.08296943231441048 away
+0.04475982532751092 inch
+0.04694323144104803 insect
+0.060043668122270744 size
+0.056768558951965066 just
+0.05349344978165939 house
+0.04148471615720524 bees
+0.05349344978165939 near
+0.04148471615720524 landed
+0.04694323144104803 ground
+0.055676855895196505 Hornet
+0.04912663755458515 body
+0.05240174672489083 huge
+0.055676855895196505 into
+0.05131004366812227 hornets
+0.019650655021834062 stinger
+0.05021834061135371 could
+0.028384279475982533 murder
+0.03820960698689956 never
+0.05786026200873363 giant
+0.028384279475982533 over
+0.04475982532751092 thought
+0.03820960698689956 look
+0.02074235807860262 killed
+0.036026200873362446 take
+0.024017467248908297 other
+0.027292576419213975 know
+0.027292576419213975 area
+0.02947598253275109 backyard
+0.03165938864628821 pictures
+0.03275109170305677 time
+0.03711790393013101 outside
+0.03165938864628821 been
+0.04475982532751092 window
+0.007641921397379912 alive
+0.028384279475982533 front
+0.025109170305676855 think
+0.034934497816593885 garden
+0.028384279475982533 face
+0.025109170305676855 there
+0.02947598253275109 while
+0.026200873362445413 I've
+0.03711790393013101 ever
+0.025109170305676855 color
+0.028384279475982533 close
+0.017467248908296942 caught
+0.02947598253275109 able
+0.016375545851528384 took
+0.03384279475982533 didn't
+0.021834061135371178 live
+0.025109170305676855 larger
+0.016375545851528384 it's
+0.028384279475982533 more
+0.02292576419213974 noticed
+0.026200873362445413 door
+0.02292576419213974 looking
+0.019650655021834062 I¡¯ve
+0.017467248908296942 wings
+0.024017467248908297 Large
+0.027292576419213975 last
+0.024017467248908297 nest
+0.02947598253275109 some
+0.016375545851528384 photos
+0.024017467248908297 buzzing
+0.014192139737991267 still
+0.016375545851528384 anything
+0.03384279475982533 tried
+0.028384279475982533 least
+0.0054585152838427945 pool
+0.025109170305676855 deck
+0.027292576419213975 Very
+0.02292576419213974 length
+0.021834061135371178 tree
+Good Notes
+0.14847161572052403 seen
+0.13864628820960698 large
+0.1222707423580786 long
+0.11899563318777293 orange
+0.11790393013100436 flew
+0.11790393013100436 like
+0.10152838427947598 picture
+0.0982532751091703 black
+0.09388646288209607 around
+0.09170305676855896 flying
+0.08733624454148471 very
+0.08733624454148471 photo
+0.08296943231441048 away
+0.08078602620087336 back
+0.08078602620087336 inches
+0.08078602620087336 yellow
+0.07969432314410481 Asian
+0.07096069868995633 yard
+0.06768558951965066 looked
+0.06768558951965066 wasp
+0.06550218340611354 head
+0.060043668122270744 size
+0.05786026200873363 giant
+0.056768558951965066 just
+0.055676855895196505 into
+0.055676855895196505 Hornet
+0.05458515283842795 before
+0.05349344978165939 house
+0.05349344978165939 near
+0.05240174672489083 huge
+0.05131004366812227 hornets
+0.05021834061135371 could
+0.04912663755458515 body
+0.04912663755458515 than
+0.04694323144104803 insect
+0.04694323144104803 ground
+0.04475982532751092 window
+0.04475982532751092 thought
+0.04475982532751092 inch
+0.04148471615720524 bees
+0.04148471615720524 landed
+0.03820960698689956 never
+0.03820960698689956 look
+0.03711790393013101 outside
+0.03711790393013101 ever
+0.036026200873362446 take
+0.034934497816593885 garden
+0.034934497816593885 sure
+0.03384279475982533 tried
+0.03384279475982533 didn't
+0.03275109170305677 came
+0.03275109170305677 time
+0.03165938864628821 pictures
+0.03165938864628821 been
+0.02947598253275109 backyard
+0.02947598253275109 while
+0.02947598253275109 first
+0.02947598253275109 able
+0.02947598253275109 some
+0.028384279475982533 more
+0.028384279475982533 murder
+0.028384279475982533 over
+0.028384279475982533 close
+0.028384279475982533 least
+0.028384279475982533 front
+0.028384279475982533 where
+0.028384279475982533 face
+0.027292576419213975 dark
+0.027292576419213975 area
+0.027292576419213975 Very
+0.027292576419213975 last
+0.027292576419213975 loud
+0.027292576419213975 know
+0.027292576419213975 phone
+0.026200873362445413 through
+0.026200873362445413 door
+0.026200873362445413 stripes
+0.026200873362445413 I've
+0.025109170305676855 side
+0.025109170305676855 Giant
+0.025109170305676855 wasps
+0.025109170305676855 color
+0.025109170305676855 larger
+0.025109170305676855 didn¡¯t
+0.025109170305676855 deck
+0.025109170305676855 there
+0.025109170305676855 think
+0.024017467248908297 Washington
+0.024017467248908297 buzzing
+0.024017467248908297 next
+0.024017467248908297 feet
+0.024017467248908297 spotted
+0.024017467248908297 nest
+0.024017467248908297 Large
+0.024017467248908297 other
+0.024017467248908297 dead
+0.02292576419213974 noticed
+0.02292576419213974 here
+0.02292576419213974 length
+
+Update
+Predict the distribution after 1 year
+number of Wasp: 181
+Average survival rate: 0.6083637559934283
+update Coefficient:mu1:15.294091950870218, mu2:6.085040227714503, s1:13.164104131303432, s2:10.14927608635093, rho:0.7004328694251353
+number of Wasp after Eliminated: 72
+Range of Wasp:[159.55462375545335,190.03607843690367][-2.473121621437482,20.88924778989874]
+Predict the distribution after 2 year
+number of Wasp: 314
+Average survival rate: 3.0591797491903336
+update Coefficient:mu1:13.45138522697936, mu2:5.530967868812029, s1:16.25167004302331, s2:13.409113052739029, rho:0.6641990646102555
+number of Wasp after Eliminated: 132
+Range of Wasp:[171.96261011382467,210.67908345108944][-1.8480337430390144,31.600789691105845]
+Predict the distribution after 3 year
+number of Wasp: 311
+Average survival rate: 4.709949083451509
+update Coefficient:mu1:15.316548451970725, mu2:6.017907556273834, s1:17.834160597588838, s2:15.618293240352589, rho:0.6474252909750018
+number of Wasp after Eliminated: 128
+Range of Wasp:[185.81308423659982,229.67306147175344][1.686198015888774,39.70986943711122]
+Predict the distribution after 4 year
+number of Wasp: 328
+Average survival rate: 4.026711732715296
+update Coefficient:mu1:13.80588120395992, mu2:5.632112198516154, s1:19.47990733781139, s2:16.558358859250724, rho:0.6161453428721408
+number of Wasp after Eliminated: 132
+Range of Wasp:[198.72103019454522,248.3468826851984][6.651825600557412,45.90170322801862]
+Predict the distribution after 5 year
+number of Wasp: 286
+Average survival rate: 3.85208892340115
+update Coefficient:mu1:16.2369707471006, mu2:5.292991587661098, s1:21.056409670125138, s2:17.169484313261503, rho:0.5545401177820269
+number of Wasp after Eliminated: 118
+Range of Wasp:[211.87806593193278,265.47074279337807][12.56467404402326,52.667791348205185]
+Predict the distribution after 6 year
+number of Wasp: 269
+Average survival rate: 3.578928136575931
+update Coefficient:mu1:17.443127629263167, mu2:5.544172393125015, s1:20.532241141374644, s2:16.521987221355932, rho:0.6089204596152987
+number of Wasp after Eliminated: 108
+Range of Wasp:[227.85067107493833,276.3742590984316][18.398926173578563,60.19360366443266]
+Predict the distribution after 7 year
+number of Wasp: 300
+Average survival rate: 3.1516531477280663
+update Coefficient:mu1:14.513721562490586, mu2:6.194474927310001, s1:20.65996082754817, s2:17.114592491422886, rho:0.5611373912645133
+number of Wasp after Eliminated: 118
+Range of Wasp:[242.7194747706506,293.01972652122254][23.44264620378001,66.22601747792372]
+Predict the distribution after 8 year
+number of Wasp: 293
+Average survival rate: 3.236101320693485
+update Coefficient:mu1:13.952880813381912, mu2:2.6259600538353505, s1:20.94688383490277, s2:17.126926397171914, rho:0.5978559585945425
+number of Wasp after Eliminated: 112
+Range of Wasp:[254.16216379727595,304.87363973517523][27.98398703489914,68.93234553463606]
+Predict the distribution after 9 year
+number of Wasp: 303
+Average survival rate: 3.5537563331327293
+update Coefficient:mu1:13.93442908397671, mu2:5.942358250081396, s1:20.91313424645555, s2:16.965521868992415, rho:0.5409558962167689
+number of Wasp after Eliminated: 126
+Range of Wasp:[273.1268401344347,317.6564451499392][32.164109917994395,72.49520582949494]
+Predict the distribution after 10 year
+number of Wasp: 322
+Average survival rate: 3.8533364675597723
+update Coefficient:mu1:14.57916292191316, mu2:5.400149852244977, s1:19.5678821720612, s2:17.306043862195953, rho:0.5857000163327343
+number of Wasp after Eliminated: 130
+Range of Wasp:[287.561552667542,334.4911235164444][33.91034760576845,76.88332669109475]
+Predict the distribution after 11 year
+number of Wasp: 336
+Average survival rate: 3.75892623473734
+update Coefficient:mu1:13.321350933601686, mu2:4.635498391297655, s1:20.104246264588685, s2:17.758766202426326, rho:0.6124891835447038
+number of Wasp after Eliminated: 142
+Range of Wasp:[300.3017570142213,352.17139523094147][36.53540677542073,85.06285269203994]
+Predict the distribution after 12 year
+number of Wasp: 282
+Average survival rate: 4.2663116932202545
+update Coefficient:mu1:15.852035686055677, mu2:6.498608800067406, s1:20.2831791304616, s2:18.30304033704502, rho:0.5240927266702192
+number of Wasp after Eliminated: 110
+Range of Wasp:[318.5437741603448,360.3054811537645][44.18886921121718,87.87074573245789]
+Predict the distribution after 13 year
+number of Wasp: 318
+Average survival rate: 3.5473025582951645
+update Coefficient:mu1:13.431697122792478, mu2:5.333012066771375, s1:18.829598405607168, s2:18.43549510798305, rho:0.4978797845163298
+number of Wasp after Eliminated: 130
+Range of Wasp:[328.9381264194083,375.31768805124693][44.68032734491311,93.059798776517]
+Predict the distribution after 14 year
+number of Wasp: 293
+Average survival rate: 3.7880790965917157
+update Coefficient:mu1:11.991112554104918, mu2:1.6145612792825124, s1:18.829034344775135, s2:19.22594910917998, rho:0.5465945047726368
+number of Wasp after Eliminated: 118
+Range of Wasp:[343.35497008622315,389.640633062192][54.00792027748579,99.58535100724167]
+Predict the distribution after 15 year
+number of Wasp: 310
+Average survival rate: 3.7552118742925695
+update Coefficient:mu1:17.53168557898077, mu2:7.350525521510589, s1:19.857246187768574, s2:17.69031397038033, rho:0.508073367934253
+number of Wasp after Eliminated: 118
+Range of Wasp:[357.19880933648096,397.32944772133226][60.06231295677925,102.99377162375882]
+Predict the distribution after 16 year
+number of Wasp: 286
+Average survival rate: 3.975119569239979
+update Coefficient:mu1:14.333233730263649, mu2:4.047020531271441, s1:18.206402545466634, s2:16.099582012180274, rho:0.6783902373613445
+number of Wasp after Eliminated: 108
+Range of Wasp:[371.76910245013045,412.9020598771145][66.0544751474944,107.62696618158749]
+Predict the distribution after 17 year
+number of Wasp: 290
+Average survival rate: 3.846825642743786
+update Coefficient:mu1:14.171372759439873, mu2:4.393309394465245, s1:18.069207544536237, s2:16.78107676005691, rho:0.5765538743546345
+number of Wasp after Eliminated: 114
+Range of Wasp:[387.14875583447446,428.49401899066686][72.61231116274945,111.65999642400497]
+Predict the distribution after 18 year
+number of Wasp: 273
+Average survival rate: 3.6785410891233155
+update Coefficient:mu1:16.75093032621456, mu2:5.707798017286511, s1:18.51289573547532, s2:17.714996277492173, rho:0.5320971733483495
+number of Wasp after Eliminated: 104
+Range of Wasp:[401.41460792523446,444.08032413745633][75.29860383542368,116.25346640974915]
+Predict the distribution after 19 year
+number of Wasp: 311
+Average survival rate: 3.4671683977910406
+update Coefficient:mu1:14.45676077963171, mu2:5.039152234003279, s1:19.180016416563745, s2:16.496428788591924, rho:0.5602232868892183
+number of Wasp after Eliminated: 122
+Range of Wasp:[417.83515948801147,459.1648403437949][78.93571301497387,122.93873755711053]
+Predict the distribution after 20 year
+number of Wasp: 307
+Average survival rate: 3.8499220912279335
+update Coefficient:mu1:14.544590217416363, mu2:5.174690120786654, s1:18.070624568616456, s2:18.073219219708786, rho:0.5776727934642654
+number of Wasp after Eliminated: 134
+Range of Wasp:[433.6626162703691,480.5785364128294][86.96657155538588,132.52809968128884]
+Predict the distribution after 21 year
+number of Wasp: 320
+Average survival rate: 3.856380734956983
+update Coefficient:mu1:14.514994375356414, mu2:4.1110842778634815, s1:19.81905611497394, s2:19.178146739504417, rho:0.5347929010178676
+number of Wasp after Eliminated: 134
+Range of Wasp:[444.78307706229003,493.52592456217326][91.31601451820259,138.5641212621494]
+Predict the distribution after 22 year
+number of Wasp: 352
+Average survival rate: 3.849594845859976
+update Coefficient:mu1:17.460261145778485, mu2:6.259789677057779, s1:20.462578393817246, s2:18.46461737108471, rho:0.5301311219996779
+number of Wasp after Eliminated: 134
+Range of Wasp:[458.9871707970941,506.59565034955574][96.2770009923695,141.60047332717414]
+Predict the distribution after 23 year
+number of Wasp: 302
+Average survival rate: 4.0507540275382645
+update Coefficient:mu1:15.319749906511294, mu2:7.657237674831904, s1:19.867151829657402, s2:18.374959146844162, rho:0.519960029967838
+number of Wasp after Eliminated: 120
+Range of Wasp:[475.12932606655943,522.0135136559632][100.44133645826079,145.7163513533078]
+Predict the distribution after 24 year
+number of Wasp: 288
+Average survival rate: 3.4488976118328183
+update Coefficient:mu1:14.582628785185133, mu2:5.410139104849423, s1:20.522322622637585, s2:18.090265127173712, rho:0.5342889913975766
+number of Wasp after Eliminated: 122
+Range of Wasp:[490.29283830688087,543.5734716400373][107.13488198601691,154.03582206456014]
+Predict the distribution after 25 year
+number of Wasp: 304
+Average survival rate: 3.7790418990525736
+update Coefficient:mu1:14.553181056987443, mu2:6.0292605422394, s1:20.824361876380483, s2:17.40417918366782, rho:0.5272111696977384
+number of Wasp after Eliminated: 122
+Range of Wasp:[507.134633051249,556.9640269294291][114.10602607087674,157.82047240634466]
+Predict the distribution after 26 year
+number of Wasp: 298
+Average survival rate: 3.724018513476488
+update Coefficient:mu1:15.32521951764112, mu2:5.529199433049331, s1:20.14213366708297, s2:17.75929157516506, rho:0.5036047870881383
+number of Wasp after Eliminated: 118
+Range of Wasp:[521.2840169445478,572.0826184110412][118.39444286933707,159.98439385941958]
+Predict the distribution after 27 year
+number of Wasp: 288
+Average survival rate: 3.7375647938934358
+update Coefficient:mu1:14.465535743821947, mu2:3.89353988499058, s1:20.763369424782788, s2:17.43121850833404, rho:0.48206272537547706
+number of Wasp after Eliminated: 118
+Range of Wasp:[535.8997879930517,584.4226069425196][121.47128270547773,165.3106829801901]
+Predict the distribution after 28 year
+number of Wasp: 275
+Average survival rate: 3.4570420452935977
+update Coefficient:mu1:11.610556956489077, mu2:3.932378772985642, s1:19.747345391906357, s2:18.868320795445563, rho:0.4961268931891579
+number of Wasp after Eliminated: 118
+Range of Wasp:[547.5287434305047,600.961080947909][124.38842245657098,170.3612341398454]
+Predict the distribution after 29 year
+number of Wasp: 276
+Average survival rate: 3.2933385624189047
+update Coefficient:mu1:15.895649779670537, mu2:6.2312871941405, s1:20.32624425997726, s2:18.689007763431096, rho:0.5514741842445084
+number of Wasp after Eliminated: 118
+Range of Wasp:[564.7465037001615,616.408993039916][128.99197664047279,177.276807434356]
+Predict the distribution after 30 year
+number of Wasp: 316
+Average survival rate: 3.242449229303049
+update Coefficient:mu1:13.821649097706034, mu2:5.127086169259496, s1:21.482995074811214, s2:19.429853887497572, rho:0.48449753228862363
+number of Wasp after Eliminated: 126
+Range of Wasp:[579.8952522978753,631.882565322244][132.72850337286349,181.27190071241694]
+
