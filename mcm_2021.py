@@ -12,6 +12,8 @@ PHOTO_FILE_PATH = r'E:\Git\Python\mcm\2021MCM_ProblemC_Files'
 PHOTO_Unverified_FILE_PATH = r'E:\Git\Python\mcm\2021MCM_Files'
 
 
+
+
 def Predict_picture_quality():
     filename = []
     quality = []
